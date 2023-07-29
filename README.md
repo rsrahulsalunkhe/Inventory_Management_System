@@ -11,7 +11,7 @@ Contributions to this project are welcome! If you find a bug, have a suggestion,
 2. **Clone the Repository**: Clone the repository to your local development environment using the following command in your terminal or command prompt:
 
    ```
-   git clone https://github.com/your-username/inventory-management-system.git
+   git clone https://github.com/rsrahulsalunkhe/Inventory_Management_System.git
    ```
 
 3. **Create a Branch**: Move into the cloned directory and create a new branch to work on your changes:
@@ -47,7 +47,7 @@ If you want to use the Inventory Management System for your own purposes or try 
 1. **Clone the Repository**: Open your terminal or command prompt and run the following command:
 
    ```
-   git clone https://github.com/username/inventory-management-system.git
+   git clone https://github.com/rsrahulsalunkhe/Inventory_Management_System.git
    ```
 
    Replace "username" with the actual GitHub username of the repository owner.
